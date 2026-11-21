@@ -7,7 +7,7 @@
 
 
 % exp_folder is the path to your images "C:<full_path>\<to_image_folder>"
-exp_folder = "C:\Users\dmelendez\Desktop\LSEB\Matteo\FOR_DENNIS\exp17_tyvek";
+exp_folder = "C:\Users\dmelendez\Desktop\LSEB\Matteo\FOR_DENNIS\exp";
 % This creates the variable 'basename', the "name" of your images folder
 [parent, basename, ~] = fileparts(exp_folder);
 
