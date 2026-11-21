@@ -11,6 +11,6 @@ The code is written in a combination of R, MATLAB, and Python.
 # Repository structure
 
 - `data/`: Experimental data used in the analyses.
-- `script/`: Code for data processing, statistical analyses, and figure generation.
+- `analysis_code/`: Code for data processing, statistical analyses, and figure generation.
 
 The scripts are organized according to the corresponding analyses and figures in the manuscript.
